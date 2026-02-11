@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+Python/**/*.pem
+Python/**/*.key
+**/__pycache__/
